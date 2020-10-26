@@ -164,7 +164,7 @@ class Target(Flying_Object):
 
         # Makes the target spawn anywhere in the left hand corner of the screen.
         self.center.x = 0.0 #random.randint(0, SCREEN_WIDTH / 2)
-        self.center.y = random.randint(SCREEN_HEIGHT // 2, SCREEN_HEIGHT)
+        self.center.y = random.randint(SCREEN_HEIGHT // 3, SCREEN_HEIGHT - 50)
 
         # Overrides the radius member variable and gives it the value of TARGET_RADIUS.
         self.radius = TARGET_RADIUS
