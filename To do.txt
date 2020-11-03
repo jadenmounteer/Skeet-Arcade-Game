@@ -1,7 +1,0 @@
-x Change the rifle so that it isn't sideways.
-o Confirm how fast the standard target should move and change the velocity variables accordingly.
-o give the game a background.
-x change the rifle so that it isn't inverted when you aim.
-x Find out how to make the bullets draw on the screen before the rifle, so that they aren't visible until after they leave the barrel.
-x Make the game count your misses.
-o Make a Game over possible.
